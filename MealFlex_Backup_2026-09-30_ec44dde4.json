@@ -1,0 +1,281 @@
+{
+  "app": "DGU Venture Quest",
+  "exportVersion": "1.0",
+  "exportedAt": "2026-09-30T15:23:09.129Z",
+  "venture": {
+    "ventureName": "MealFlex",
+    "ventureIdea": "MealFlex is a flexible meal subscription service for students living in hostels and PG accommodation. It would partner with local kitchens to provide affordable meals through weekly or monthly plans. Students could select meal preferences, choose portion sizes and pause meals before a daily cutoff when their plans change. Orders would initially be managed through WhatsApp and a simple booking form, with delivery to designated collection points. Unlike a fixed meal plan, MealFlex would give students greater control over their subscriptions. Revenue would come from meal subscriptions, with a margin retained after kitchen and delivery costs.",
+    "currentMission": 8,
+    "unlockedMission": 12,
+    "completedMissions": [],
+    "completionPercentage": 0,
+    "assignment1Ready": false,
+    "assignment2Ready": false,
+    "createdAt": "2026-09-30T13:27:48.034Z",
+    "updatedAt": "2026-09-30T13:27:48.034Z",
+    "mission0": {
+      "ventureName": "MealFlex",
+      "ventureIdea": "MealFlex is a flexible meal subscription service for students living in hostels and PG accommodation. It would partner with local kitchens to provide affordable meals through weekly or monthly plans. Students could select meal preferences, choose portion sizes and pause meals before a daily cutoff when their plans change. Orders would initially be managed through WhatsApp and a simple booking form, with delivery to designated collection points. Unlike a fixed meal plan, MealFlex would give students greater control over their subscriptions. Revenue would come from meal subscriptions, with a margin retained after kitchen and delivery costs.",
+      "problemSolved": "Fixed meal plans may not suit students’ schedules or food preferences. Students can pay for meals they miss, while ordering separately each day can be inconvenient and expensive. MealFlex would offer flexible plans to reduce unnecessary spending and food waste.",
+      "initialCustomer": "College students living in hostels and PG accommodation, especially those without cooking facilities or whose class schedules make fixed meal timings inconvenient.",
+      "geography": "Students living in hostels and PG accommodation around DBS Global University, Dehradun.",
+      "whyChosen": "I chose this idea because affordable daily meals are a recurring student need. Flexible subscriptions offer a practical service improvement, and the idea can be tested with a small group of students and one local kitchen."
+    },
+    "mission1": {
+      "frictions": [
+        {
+          "id": "f-1",
+          "friction": "Students on fixed meal subscriptions may pay for meals they miss when classes, travel or personal plans change, increasing their effective food costs.",
+          "whoExperiences": "College students living in hostels and PG accommodation who use prepaid mess or tiffin services with limited cancellation flexibility.",
+          "whenOccurs": "When students have classes or activities during meal timings, eat elsewhere, or leave for weekends and holidays.",
+          "currentWorkaround": "Students may request informal cancellations from the provider, share unwanted meals with friends, or purchase food elsewhere while still paying for their subscribed meals.",
+          "whyWorkaroundUnsatisfactory": "Informal cancellations may not provide refunds or credits. Sharing meals does not recover the payment, and buying another meal adds to daily expenses.",
+          "evidenceSource": "Initial problem hypothesis; student interviews and a review of local meal providers’ cancellation policies are yet to be conducted.",
+          "evidenceStrength": ""
+        }
+      ],
+      "primaryFrictionId": "f-1",
+      "confidenceEvidenceNeeded": "Interview 15–20 students using prepaid meal services, track their missed meals and associated costs over one week, and review cancellation policies from at least three local providers. Check whether students would pay for a plan that allows advance pauses and meal credits."
+    },
+    "mission2": {
+      "functionalJob": "Arrange affordable daily meals around a changing college schedule without paying for meals I do not need",
+      "emotionalJob": "Feel confident that my meals are arranged and my food budget is under control, without worrying about wasted payments.",
+      "socialJob": "Be seen as an independent and responsible student who manages daily expenses wisely.",
+      "primaryJTBD": {
+        "situation": "My classes, travel or personal plans change and I know in advance that I will miss a subscribed meal.",
+        "motivationAction": "Adjust my meal schedule without losing the money allocated to meals I will not use.",
+        "desiredOutcome": "Stay within my food budget and have meals available when I need them."
+      },
+      "addressedFriction": "Students on fixed meal subscriptions may pay for meals they miss when classes, travel or personal plans change, increasing their effective food costs."
+    },
+    "mission3": {
+      "broadCustomerGroup": "College students living away from home who depend on paid meal services.",
+      "specificSegment": "DBS Global University students living in nearby PG accommodation who use prepaid tiffin services and need flexibility when their schedules change.",
+      "demographicsRole": "Students aged approximately 18–26, pursuing undergraduate or postgraduate courses.",
+      "geography": "PG accommodation within an initial 2 km service radius of DBS Global University, Dehradun",
+      "situationContext": "Living away from home with limited cooking facilities and missing prepaid meals because of classes, campus activities, weekend travel or other plans.",
+      "buyingBehaviour": "Expected to compare meal prices, follow friends’ recommendations and use WhatsApp and UPI for ordering and payment. They need meals regularly but may prefer trying a short plan before committing.",
+      "willingnessToPay": "Initial price hypothesis: ₹60–₹80 per standard meal, subject to student interviews and kitchen cost estimates. Willingness to pay would depend on taste, quantity, reliability and pause benefits.",
+      "reachStrategy": "Class and PG WhatsApp groups, student referrals, campus Instagram pages and QR-code posters placed with permission.",
+      "beachheadSegment": "First-year MBA students at DBS Global University living in PGs within 2 km of campus, using prepaid tiffin plans and missing at least two paid meals per week because their schedules change."
+    },
+    "mission4": {
+      "customerPain": "Students lose money on prepaid meals they miss when classes, travel or personal plans change. Arranging replacement meals can add further expense and inconvenience",
+      "desiredGain": "Keep the value of meals paused in advance, arrange food around changing schedules and control monthly meal spending.",
+      "productService": "MealFlex: a flexible meal subscription with advance pause requests, meal credits and collection at designated nearby points.",
+      "mainBenefit": "Greater control over meal spending through credits for meals paused before the daily cutoff, which can be used for later meals within the plan’s validity.",
+      "reasonToBelieve": "The proposed service would use a clear pause policy, confirmed requests and a visible meal-credit record. Delivery capability and savings are currently unverified; a small pilot and a kitchen partner’s agreement would be needed to support these promises.",
+      "reasonHasEvidence": false,
+      "cvpStatement": "For First-year MBA students at DBS Global University living in PGs within 2 km of campus, using prepaid tiffin plans and missing at least two paid meals per week because their schedules change., who struggles with Students lose money on prepaid meals they miss when classes, travel or personal plans change. Arranging replacement meals can add further expense and inconvenience, our venture provides MealFlex: a flexible meal subscription with advance pause requests, meal credits and collection at designated nearby points. that delivers Greater control over meal spending through credits for meals paused before the daily cutoff, which can be used for later meals within the plan’s validity., so that Keep the value of meals paused in advance, arrange food around changing schedules and control monthly meal spending..",
+      "whyChooseOverDoingNothing": "The opportunity to retain the value of frequently missed meals could make switching worthwhile. A short trial, clear pricing and simple pause requests would reduce the effort and uncertainty of trying a new provider."
+    },
+    "mission5": {
+      "alternatives": [
+        {
+          "id": "alt-1",
+          "name": "YummmPandas Homely Tiffin Service, Dehradun",
+          "type": "Direct Competitor",
+          "priceCost": "₹3,600 per month for lunch or dinner, plus ₹1,300 refundable tiffin-box deposit.",
+          "mainOffer": "A monthly subscription providing a prepared meal delivered in selected areas of Dehradun.",
+          "mainStrength": "An existing service with a published menu, price and delivery schedule.",
+          "mainWeakness": "The published service covers selected areas and fixed delivery windows. Coverage near DBS and pause-credit terms need confirmation.",
+          "evidenceSource": "Official YummmPandas product page. DBS-area availability and cancellation terms have not been verified.",
+          "evidenceStrength": "Moderate",
+          "axisXScore": 6,
+          "axisYScore": 3
+        },
+        {
+          "id": "alt-2",
+          "name": "Ordering individual restaurant meals through Swiggy",
+          "type": "Indirect Competitor",
+          "priceCost": "Restaurant menu price plus applicable charges; the total varies by order and delivery location.",
+          "mainOffer": "Order prepared restaurant meals whenever required without committing to a monthly meal plan.",
+          "mainStrength": "Customers can decide separately for each meal, avoiding payment for future meals they may miss.",
+          "mainWeakness": "Daily ordering requires repeated decisions, and additional charges can make food spending less predictable.",
+          "evidenceSource": "Swiggy’s official terms explain its ordering service and variable charges.",
+          "evidenceStrength": "Moderate",
+          "axisXScore": 8,
+          "axisYScore": 9
+        },
+        {
+          "id": "alt-3",
+          "name": "Preparing simple meals in the PG using shared cooking facilities",
+          "type": "Substitute",
+          "priceCost": "Ingredient, fuel and equipment costs plus shopping and cooking time; a local cost estimate is pending.",
+          "mainOffer": "Prepare food as needed instead of subscribing to a meal provider.",
+          "mainStrength": "Control over meal timing, ingredients, portions and how much food is prepared.",
+          "mainWeakness": "Requires permitted cooking facilities, equipment, shopping, preparation and cleaning time.",
+          "evidenceSource": "nitial alternative hypothesis; PG facility checks and student interviews ",
+          "evidenceStrength": "Weak",
+          "axisXScore": 3,
+          "axisYScore": 9
+        }
+      ],
+      "axisXLabel": "4",
+      "axisYLabel": "8",
+      "ventureAxisXScore": null,
+      "ventureAxisYScore": null,
+      "desiredAssociatedPosition": "MealFlex is the affordable student meal subscription that adapts to changing schedules. Students can pause meals before the cutoff and retain credits for later use, helping them control food spending without arranging every meal separately."
+    },
+    "mission6": {
+      "targetCustomer": "First-year MBA students at DBS Global University living in PGs within 2 km of campus, using prepaid tiffin plans and missing at least two paid meals per week because their schedules change.",
+      "category": "Flexible student meal subscription service.",
+      "primaryBenefit": "Greater control over meal spending through credits for meals paused before the daily cutoff, which can be used for later meals within the plan’s validity.",
+      "mainAlternative": "YummmPandas Homely Tiffin Service, Dehradun",
+      "mainDifferentiation": "A student-focused subscription built around advance meal pauses, confirmed requests and a transparent credit balance for later meals within the plan’s validity",
+      "reasonToBelieve": "The proposed system would record pause requests, confirm eligible credits and show students their remaining balance. A kitchen partner agreement and a small student pilot are planned to verify service reliability and savings;",
+      "reasonHasEvidence": false,
+      "positioningStatement": "For First-year MBA students at DBS Global University living in PGs within 2 km of campus, using prepaid tiffin plans and missing at least two paid meals per week because their schedules change., MealFlex is a Flexible student meal subscription service. that provides Greater control over meal spending through credits for meals paused before the daily cutoff, which can be used for later meals within the plan’s validity., unlike YummmPandas Homely Tiffin Service, Dehradun, because The proposed system would record pause requests, confirm eligible credits and show students their remaining balance. A kitchen partner agreement and a small student pilot are planned to verify service reliability and savings;."
+    },
+    "mission7": {
+      "revenueModel": "Subscription",
+      "otherRevenueModel": "",
+      "sellingPrice": 1400,
+      "variableCost": 1100,
+      "monthlyFixedCost": 5999,
+      "expectedCustomers": 30,
+      "purchasesPerCustomer": 1,
+      "priceEvidenceSource": "Proposed price of ₹1,400 for 20 meals, equivalPreliminary budget assumptions. Variable cost per meal: ₹45 kitchen payment, ₹7 delivery to shared collection points and ₹3 packaging, totalling ₹55 or ₹1,100 for 20 meals. Monthly fixed budget: ₹2,000 coordination, ₹1,500 marketing, ₹500 digital tools and ₹2,000 administration.ent to ₹70 per meal. This falls within our initial ₹60–₹80 price hypothesis",
+      "costEvidenceSource": "Preliminary budget assumptions. Variable cost per meal: ₹45 kitchen payment, ₹7 delivery to shared collection points and ₹3 packaging, totalling ₹55 or ₹1,100 for 20 meals. Monthly fixed budget: ₹2,000 coordination, ₹1,500 marketing, ₹500 digital tools and ₹2,000 administration",
+      "scenarios": {
+        "conservative": {
+          "customers": 15,
+          "purchasesPerCustomer": -1,
+          "sellingPrice": 0,
+          "variableCost": 0,
+          "monthlyFixedCost": 0,
+          "notes": "Adoption is slow because students hesitate to change providers. Limited referrals and trial participation result in 15 monthly subscribers. At the assumed costs, the venture would make a monthly operating loss of ₹1,500."
+        },
+        "base": {
+          "customers": 26,
+          "purchasesPerCustomer": 1,
+          "sellingPrice": 0,
+          "variableCost": 0,
+          "monthlyFixedCost": 0,
+          "notes": "Student outreach and referrals attract 30 monthly subscribers. One kitchen partner and shared collection points keep costs within the proposed budget, producing a monthly operating surplus of ₹3,000."
+        },
+        "ambitious": {
+          "customers": 49,
+          "purchasesPerCustomer": 1,
+          "sellingPrice": 0,
+          "variableCost": 0,
+          "monthlyFixedCost": 0,
+          "notes": "Positive trial feedback and referrals attract 50 monthly subscribers. This assumes the kitchen and delivery arrangements can handle demand without increasing unit or fixed costs, producing a monthly operating surplus of ₹9,000."
+        }
+      }
+    },
+    "mission8": {
+      "totalPotentialCustomers": 10000,
+      "totalCustomersEvidence": "Illustrative assumption of 10,000 students across Dehradun living away from home and potentially needing paid meal services. This is a city-level market estimate, pending verification through enrolment data and student accommodation surveys.",
+      "annualSpendPerCustomer": 16800,
+      "annualSpendEvidence": "Calculated from Mission 7: ₹1,400 per subscription × 1 subscription per month × 12 months = ₹16,800. This assumes year-round usage; holidays and paused credits may reduce actual annual spending.",
+      "serviceableCustomers": 200,
+      "serviceableEvidence": "Illustrative assumption of 200 first-year MBA students at DBS living in PGs within 2 km of campus who use prepaid meal services and need schedule flexibility. Actual numbers must be checked through class and PG surveys.",
+      "obtainableCustomers": 30,
+      "obtainableEvidence": "Target of 30 active subscribers by the end of the first 12 months, consistent with Mission 7’s base case. This equals 15% of the assumed SAM and requires capacity for approximately 600 meals per month. Customer conversion and kitchen capacity remain unverified.",
+      "mostUrgentAssumption": "Whether enough students in the chosen segment frequently lose money on missed meals and would switch to MealFlex at ₹1,400 for 20 meals. Interviews and a paid trial should test the segment size, willingness to pay and repeat usage."
+    },
+    "mission9": {
+      "firstCustomerSegment": "First-year MBA students at DBS Global University living in PGs within 2 km of campus who frequently miss meals on prepaid tiffin plans.",
+      "coreMessage": "Your schedule changes—your meal plan should too: MealFlex lets you pause meals in advance and retain credits for later use.",
+      "callToAction": "Scan the QR code, check the menu and pause policy, and register for a five-meal paid trial at ₹350.",
+      "reachLocations": "Class and PG WhatsApp groups, nearby PG common areas and through classmates’ referrals.",
+      "channels": [
+        {
+          "id": "ch-1",
+          "channelName": "WhatsApp communities",
+          "whyFitsCustomer": "Class and PG groups provide a focused way to reach the chosen segment, explain the pause policy and answer questions.",
+          "budget": 300,
+          "expectedLeads": 50,
+          "expectedCustomers": 5,
+          "evidenceReason": "Untested target of converting 5 of 50 relevant students contacted."
+        }
+      ],
+      "experiment30Days": {
+        "week1": {
+          "action": "Interview students, obtain kitchen quotes, agree on the menu and pause rules, and set up registration and credit tracking.",
+          "channel": "Direct PG outreach and WhatsApp communities.",
+          "target": "20 interviews, one kitchen agreement and 10 interested trial prospects.",
+          "metric": "Interview completion, frequency of missed paid meals and trial interest.",
+          "responsibility": "Founder / Venture Lead.",
+          "learningQuestion": "Is losing money on missed meals frequent enough to motivate students to try MealFlex?"
+        },
+        "week2": {
+          "action": "Launch a five-meal trial at ₹350, serve the first customers and test pause confirmations and credit records.",
+          "channel": "WhatsApp communities and direct selling.",
+          "target": "10 paying trial customers and at least 90% of meals ready within the promised collection window.",
+          "metric": "Paid conversion, collection punctuality, complaints and credit-record accuracy.",
+          "responsibility": "Founder, supported by the kitchen partner.",
+          "learningQuestion": "Can students easily order, pause and collect meals, and can we deliver the promised service?"
+        },
+        "week3": {
+          "action": "Collect trial feedback, measure actual meal costs and offer the ₹1,400 subscription to trial customers",
+          "channel": "WhatsApp follow-ups and student referrals.",
+          "target": "Feedback from at least 8 initial trial customers and 15 total paying trial customers.",
+          "metric": "Trial-to-subscription conversion, cost per meal, pause usage and customer satisfaction.",
+          "responsibility": "Founder / Customer Research Lead.",
+          "learningQuestion": "Will customers buy the full subscription after experiencing the meals and pause system?"
+        },
+        "week4": {
+          "action": "Review costs and feedback, improve the main service issue and revise pricing or delivery arrangements where needed.",
+          "channel": "Customer follow-ups and a kitchen-partner review.",
+          "target": "At least 5 trial customers purchase the 20-meal subscription; document a decision to continue, revise or stop.",
+          "metric": "Actual acquisition cost, subscription purchases, contribution per meal and outstanding credits.",
+          "responsibility": "Founder / Venture Lead.",
+          "learningQuestion": "Does the flexibility create enough value for repeat purchases while leaving a sustainable contribution margin?"
+        }
+      }
+    },
+    "mission10": {
+      "coreAssumptionTested": "At least 5 of the first 15 paying trial customers will purchase a ₹1,400 subscription for 20 meals after experiencing MealFlex’s food quality and advance pause-credit system.",
+      "features": [
+        {
+          "id": "feat-1",
+          "name": "Meal booking and payment confirmation",
+          "customerNeedAddressed": "Understand the menu, price and collection arrangements before paying.",
+          "priority": "Must Have",
+          "whyNeeded": "Allows students to purchase the ₹350 five-meal trial and receive a confirmed booking through WhatsApp and a simple form.",
+          "evidenceReason": "Required to test actual paid demand; customer demand remains unvalidated."
+        }
+      ],
+      "excludedFeatures": "A native Android or iOS app, live delivery tracking, multiple kitchen choices, personalised diet plans, automated payment refunds and city-wide delivery. The pilot will use one kitchen, a standard menu, designated collection points, WhatsApp, a booking form and a manually maintained credit record.",
+      "mvpPurpose": "Test whether students will pay for and continue using a meal service that combines dependable meals with advance pauses and retained meal credits.",
+      "mvpCoreUser": "First-year MBA students at DBS Global University living in PGs within 2 km of campus, using prepaid tiffin plans and missing at least two paid meals per week because their schedules change.",
+      "mvpCoreProblem": "Students on fixed meal subscriptions may pay for meals they miss when classes, travel or personal plans change, increasing their effective food costs.",
+      "successMetric": "Within 30 days, at least 5 of 15 paying trial customers purchase the ₹1,400 subscription for 20 meals—a trial-to-subscription conversion rate of at least 33%."
+    },
+    "mission11": {
+      "topAssumptions": [
+        {
+          "id": "assump-1",
+          "assumption": "Students in our chosen segment frequently lose money on missed prepaid meals and consider this a problem worth solving.",
+          "whyItMatters": "If missed-meal losses are uncommon or existing providers already offer satisfactory credits, MealFlex’s main benefit may not motivate switching.",
+          "howToTest": "Interview 20 target students, record missed paid meals over one week and check their current providers’ pause policies.",
+          "evidenceNeeded": "Meal diaries, payment records and provider policies. Initial support would require at least 10 of 20 students reporting two or more missed paid meals per week without satisfactory credits."
+        },
+        {
+          "id": "assump-2",
+          "assumption": "At least 5 of 15 paying trial customers will purchase the ₹1,400 subscription for 20 meals.",
+          "whyItMatters": "Interest alone does not generate revenue. Students must be willing to pay the proposed subscription price after experiencing the service.",
+          "howToTest": "Run the ₹350 five-meal trial with 15 students, then offer the full subscription within the 30-day pilot.",
+          "evidenceNeeded": "Verified trial payments, completed meal records and full-subscription payments. Five or more subscription purchases would meet the initial target; fewer would trigger a review of price, quality and customer fit."
+        },
+        {
+          "id": "assump-3",
+          "assumption": "MealFlex can supply meals at an average variable cost of ₹55 while meeting collection timings and correctly honouring pause credits.",
+          "whyItMatters": "The proposed ₹15 contribution per meal depends on this cost. Higher costs, service failures or credit errors could undermine profitability and customer trust.",
+          "howToTest": "Obtain kitchen and delivery quotes, then record all fulfilment costs, collection times and pause-credit transactions during the paid pilot.",
+          "evidenceNeeded": "Supplier quotes, invoices, delivery logs and reconciled credit records. Initial targets are average variable cost no higher than ₹55, at least 90% punctual fulfilment and no unresolved credit errors."
+        }
+      ]
+    },
+    "mission12": {
+      "reflectionNotes": "Developing MealFlex helped me connect a customer problem with a focused segment, value proposition, revenue model and minimum viable service. The proposed innovation is a flexible meal subscription that allows advance pauses and retains meal credits.\n\nCustomer demand, willingness to pay, operating costs and market size remain unvalidated assumptions. My next step is to interview 20 target students and run a paid trial with 15 customers. I will assess subscription conversion, meal costs, service punctuality and credit accuracy before deciding whether to continue or revise the venture.",
+      "finalizedAt": "2026-09-30T15:22:41.570Z",
+      "finalReviewCompleted": true
+    },
+    "assignment2": {
+      "appUrl": ""
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "name": "MealFlex Operations Dashboard",
+  "description": "Flexible student meal subscription operations, pause-credit tracker, and unit economics dashboard for MealFlex around DBS Global University, Dehradun.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
